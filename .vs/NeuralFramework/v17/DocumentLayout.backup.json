@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dip\\NeuralFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DE644C-0993-4745-9777-8C3598E8C7C9}|NeuralFramework\\NeuralFramework.vcxproj|C:\\dip\\NeuralFramework\\NeuralFramework\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A4DE644C-0993-4745-9777-8C3598E8C7C9}|NeuralFramework\\NeuralFramework.vcxproj|solutionrelative:NeuralFramework\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DE644C-0993-4745-9777-8C3598E8C7C9}|NeuralFramework\\NeuralFramework.vcxproj|C:\\dip\\NeuralFramework\\NeuralFramework\\Model.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4DE644C-0993-4745-9777-8C3598E8C7C9}|NeuralFramework\\NeuralFramework.vcxproj|solutionrelative:NeuralFramework\\Model.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DE644C-0993-4745-9777-8C3598E8C7C9}|NeuralFramework\\NeuralFramework.vcxproj|C:\\dip\\NeuralFramework\\NeuralFramework\\Loss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4DE644C-0993-4745-9777-8C3598E8C7C9}|NeuralFramework\\NeuralFramework.vcxproj|solutionrelative:NeuralFramework\\Loss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DE644C-0993-4745-9777-8C3598E8C7C9}|NeuralFramework\\NeuralFramework.vcxproj|C:\\dip\\NeuralFramework\\NeuralFramework\\examples\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4DE644C-0993-4745-9777-8C3598E8C7C9}|NeuralFramework\\NeuralFramework.vcxproj|solutionrelative:NeuralFramework\\examples\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DE644C-0993-4745-9777-8C3598E8C7C9}|NeuralFramework\\NeuralFramework.vcxproj|C:\\dip\\NeuralFramework\\NeuralFramework\\Activation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4DE644C-0993-4745-9777-8C3598E8C7C9}|NeuralFramework\\NeuralFramework.vcxproj|solutionrelative:NeuralFramework\\Activation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model.cpp",
+              "DocumentMoniker": "C:\\dip\\NeuralFramework\\NeuralFramework\\Model.cpp",
+              "RelativeDocumentMoniker": "NeuralFramework\\Model.cpp",
+              "ToolTip": "C:\\dip\\NeuralFramework\\NeuralFramework\\Model.cpp",
+              "RelativeToolTip": "NeuralFramework\\Model.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-25T15:31:44.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Loss.cpp",
+              "DocumentMoniker": "C:\\dip\\NeuralFramework\\NeuralFramework\\Loss.cpp",
+              "RelativeDocumentMoniker": "NeuralFramework\\Loss.cpp",
+              "ToolTip": "C:\\dip\\NeuralFramework\\NeuralFramework\\Loss.cpp",
+              "RelativeToolTip": "NeuralFramework\\Loss.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-25T15:31:41.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Activation.cpp",
+              "DocumentMoniker": "C:\\dip\\NeuralFramework\\NeuralFramework\\Activation.cpp",
+              "RelativeDocumentMoniker": "NeuralFramework\\Activation.cpp",
+              "ToolTip": "C:\\dip\\NeuralFramework\\NeuralFramework\\Activation.cpp",
+              "RelativeToolTip": "NeuralFramework\\Activation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-25T15:13:18.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\dip\\NeuralFramework\\NeuralFramework\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "NeuralFramework\\CMakeLists.txt",
+              "ToolTip": "C:\\dip\\NeuralFramework\\NeuralFramework\\CMakeLists.txt",
+              "RelativeToolTip": "NeuralFramework\\CMakeLists.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-25T15:11:49.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\dip\\NeuralFramework\\NeuralFramework\\examples\\main.cpp",
+              "RelativeDocumentMoniker": "NeuralFramework\\examples\\main.cpp",
+              "ToolTip": "C:\\dip\\NeuralFramework\\NeuralFramework\\examples\\main.cpp",
+              "RelativeToolTip": "NeuralFramework\\examples\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-25T15:11:19.942Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

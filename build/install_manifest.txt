@@ -1,0 +1,12 @@
+C:\libs\NeuralFramework/lib/neuralframework.lib
+C:\libs\NeuralFramework/include/NeuralFramework/Activation.h
+C:\libs\NeuralFramework/include/NeuralFramework/Dense.h
+C:\libs\NeuralFramework/include/NeuralFramework/Layer.h
+C:\libs\NeuralFramework/include/NeuralFramework/Loss.h
+C:\libs\NeuralFramework/include/NeuralFramework/Matrix.h
+C:\libs\NeuralFramework/include/NeuralFramework/Model.h
+C:\libs\NeuralFramework/lib/cmake/NeuralFramework/NeuralFrameworkTargets.cmake
+C:\libs\NeuralFramework/lib/cmake/NeuralFramework/NeuralFrameworkTargets-debug.cmake
+C:\libs\NeuralFramework/lib/cmake/NeuralFramework/NeuralFrameworkConfig.cmake
+C:\libs\NeuralFramework/lib/cmake/NeuralFramework/NeuralFrameworkConfigVersion.cmake
+C:\libs\NeuralFramework/share/NeuralFramework/LICENSE

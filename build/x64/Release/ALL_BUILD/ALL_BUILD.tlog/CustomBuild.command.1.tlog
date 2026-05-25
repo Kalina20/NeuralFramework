@@ -1,0 +1,10 @@
+^C:\DIP\NEURALFRAMEWORK\NEURALFRAMEWORK\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/dip/NeuralFramework/NeuralFramework -BC:/dip/NeuralFramework/build --check-stamp-file C:/dip/NeuralFramework/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

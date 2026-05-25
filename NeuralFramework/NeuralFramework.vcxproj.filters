@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{6f227bdb-44f6-429e-bf6a-3810a631b9ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{6386aa4e-1eee-4ad5-a67a-3c9ab5601cd6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="examples">
+      <UniqueIdentifier>{5533fc3c-e540-4156-8d6b-0a51b2797e42}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Matrix.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Dense.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Activation.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Loss.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Model.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="examples\\main.cpp">
+      <Filter>examples</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Matrix.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="Layer.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="Dense.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="Activation.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="Loss.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="Model.h">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="CMakeLists.txt" />
+  </ItemGroup>
+</Project>

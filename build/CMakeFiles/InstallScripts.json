@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/dip/NeuralFramework/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
